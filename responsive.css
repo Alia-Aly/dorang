@@ -1,0 +1,45 @@
+@media(min-width:200px) and (max-width:1200px){
+    .one ul a{
+     font-size: 15px;
+    }
+    .loc{
+     width: 25px;
+     padding: 0px 20px;
+    }
+    .nav{
+     padding: 10px 0px;
+    }
+    .two{
+     width: 100%;
+    }
+    .three{
+     width: 95%;
+     margin: auto;
+    }
+    .three h2{
+     font-size: 25px;
+    }
+    .four{
+     flex-wrap: wrap;
+    }
+    .k{
+     width: 90%;
+     margin:30px auto;
+    }
+    .five{
+     width: 95%;
+     margin: auto;
+    }
+    .five h2{
+     font-size: 30px;
+    }
+    .six{
+     flex-wrap: wrap;
+    }
+    .contain{
+     width: 100%;
+    }
+    form{
+     width: 80%;
+    }
+ }
